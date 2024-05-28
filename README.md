@@ -35,7 +35,7 @@ informado e salvando os dados no Mockapi.
 
 ***Tela principal***
 
-![image](https://github.com/VanessaCristinaSilva/Ac2DispositivosMoveis/assets/115050243/a8a5306a-447b-49f4-8539-237132a1e274)
+![image](https://github.com/VanessaCristinaSilva/Ac2DispositivosMoveis/assets/115050243/e68c588a-98f6-448f-b16a-319f834f8df7)
 
 ***Tela cadastrar Aluno***
 
