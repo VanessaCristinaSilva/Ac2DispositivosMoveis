@@ -38,6 +38,7 @@ informado e salvando os dados no Mockapi.
 ![image](https://github.com/VanessaCristinaSilva/Ac2DispositivosMoveis/assets/115050243/a8a5306a-447b-49f4-8539-237132a1e274)
 
 ***Tela cadastrar Aluno***
+
 ![image](https://github.com/VanessaCristinaSilva/Ac2DispositivosMoveis/assets/115050243/6848461c-9b9b-4b2a-9cae-b8bdfb4a058d)
 
 ***Tela Listar Alunos***
