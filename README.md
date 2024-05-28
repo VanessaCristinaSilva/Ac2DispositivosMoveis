@@ -1,7 +1,8 @@
-***VanessaCristinaSilva RA 223543
+***VanessaCristinaSilva RA 223543***
 
-**Atividade 5 – AC2
-***Sobre a atividade
+**Atividade 5 – AC2**
+
+***Sobre a atividade***
 
 Crie um aplicativo que cadastre alunos de uma instituição. Para esse cadastro você
 utilizará o mockapi.io e criará o repositório de “aluno”. A classe Aluno terá a seguinte
@@ -32,25 +33,25 @@ informado e salvando os dados no Mockapi.
 • Uma tela que listará todos os alunos inseridos.
 
 
-***Tela principal 
+***Tela principal***
 
 ![image](https://github.com/VanessaCristinaSilva/Ac2DispositivosMoveis/assets/115050243/a8a5306a-447b-49f4-8539-237132a1e274)
 
-***Tela cadastrar Aluno
-
-![image](https://github.com/VanessaCristinaSilva/Ac2DispositivosMoveis/assets/115050243/46f68458-d35d-4200-a05b-5529f0490323)
-
-***Tela Listar Alunos
-
+***Tela cadastrar Aluno***
 ![image](https://github.com/VanessaCristinaSilva/Ac2DispositivosMoveis/assets/115050243/6848461c-9b9b-4b2a-9cae-b8bdfb4a058d)
 
+***Tela Listar Alunos***
 
-**Links
+![image](https://github.com/VanessaCristinaSilva/Ac2DispositivosMoveis/assets/115050243/383375ae-0ae8-4d4b-95cc-1e921e590687)
 
-***Github:
+
+**Links**
+
+***Github:***
 
 https://github.com/VanessaCristinaSilva/Ac2DispositivosMoveis.git
 
+***Youtube***
+
 https://youtube.com/shorts/63scuhzkuJc?si=tvDCtgRotAlUEPEz
 
-***Youtube
