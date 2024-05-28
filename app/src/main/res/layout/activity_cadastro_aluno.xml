@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".model.CadastroAlunoActivity">
+
+    <EditText
+        android:id="@+id/etRa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="RA" />
+
+    <EditText
+        android:id="@+id/etNome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etRa"
+        android:hint="Nome" />
+
+    <EditText
+        android:id="@+id/etCep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etNome"
+        android:hint="CEP" />
+
+
+    <EditText
+        android:id="@+id/etLogradouro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etCep"
+        android:hint="Logradouro" />
+
+    <EditText
+        android:id="@+id/etComplemento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etLogradouro"
+        android:hint="Complemento" />
+
+    <EditText
+        android:id="@+id/etBairro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etComplemento"
+        android:hint="Bairro" />
+
+    <EditText
+        android:id="@+id/etCidade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etBairro"
+        android:hint="Cidade" />
+
+    <EditText
+        android:id="@+id/etUf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etCidade"
+        android:hint="UF" />
+
+    <Button
+        android:id="@+id/btnBuscarCep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etUf"
+        android:text="Buscar CEP" />
+
+    <Button
+        android:id="@+id/btnSalvar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnBuscarCep"
+        android:text="Salvar" />
+
+</RelativeLayout>

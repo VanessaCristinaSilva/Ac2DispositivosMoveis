@@ -1,0 +1,41 @@
+package com.example.ac2;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import com.example.ac2.R;
+
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.ac2.model.CadastroAlunoActivity;
+import com.example.ac2.model.ListarAlunosActivity;
+
+public class MainActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        Button btnCadastrarAluno = findViewById(R.id.btnCadastrarAluno);
+        Button btnListarAlunos = findViewById(R.id.btnListarAlunos);
+
+        btnCadastrarAluno.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, CadastroAlunoActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        btnListarAlunos.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, ListarAlunosActivity.class);
+                startActivity(intent);
+            }
+        });
+    }
+}
